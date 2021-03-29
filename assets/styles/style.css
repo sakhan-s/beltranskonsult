@@ -515,7 +515,7 @@ hr {
 
 @media(min-width:1212px) {
 	.container {
-		width: 1212px
+		width: 1200px;
 	}
 }
 
@@ -4051,7 +4051,7 @@ body.admin-bar #page.vertical-header #site-header-wrapper {
 .header-style-3 #primary-menu.no-responsive>li.menu-item-active,
 .header-style-4 #primary-menu.no-responsive>li.menu-item-current,
 .header-style-4 #primary-menu.no-responsive>li.menu-item-active {
-	padding: 31px 1px
+	padding: 35px 3px;
 }
 
 .header-style-3 #primary-menu.no-responsive>li>a,
@@ -6488,8 +6488,8 @@ iframe+.map-locker.disabled {
 
 .gem-textbox-title,
 .gem-textbox-content {
-	padding: 30px
-}
+	
+} 
 
 .gem-textbox-title .gem-textbox-title-icon+.gem-textbox-title-text {
 	margin-top: 30px
@@ -12219,7 +12219,7 @@ body.one-pager #site-header.fixed.shrink .header-style-4 #primary-menu.no-respon
 
 #site-header.fixed.shrink .header-style-3 #primary-menu.no-responsive>li>a,
 #site-header.fixed.shrink .header-style-4 #primary-menu.no-responsive>li>a {
-	padding: 0 15px
+	padding: 0 20px
 }
 
 #site-header.fixed.shrink #primary-navigation .hamburger-toggle,
@@ -22278,13 +22278,13 @@ body .quickfinder-item .quickfinder-item-connector,
 }
 
 #primary-menu.no-responsive>li:hover>a {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 #primary-menu.no-responsive>li.megamenu-enable.megamenu-style-default>ul li>a:hover,
 #primary-menu.no-responsive>li.megamenu-enable.megamenu-style-default>ul li.menu-item-current>a,
 #primary-menu.no-responsive>li.megamenu-enable.megamenu-style-default>ul li.menu-item-active>a {
-	background-color: #ffcd20
+	background-color: rgb(51, 108, 180)
 }
 
 #primary-menu.no-responsive>li.menu-item-current>a,
@@ -22360,11 +22360,11 @@ body .quickfinder-item .quickfinder-item-connector,
 }
 
 #primary-menu.no-responsive>li.megamenu-enable>ul>li span.megamenu-column-header a:hover {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 #primary-menu.no-responsive>li.megamenu-enable>ul>li.menu-item-active>span.megamenu-column-header a {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 #primary-menu.no-responsive>li li li>a {
@@ -22387,7 +22387,7 @@ body .quickfinder-item .quickfinder-item-connector,
 
 #primary-menu.no-responsive>li li li.menu-item-current>a,
 #primary-menu.no-responsive>li li li.menu-item-active>a {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 #primary-menu.no-responsive>li li li.menu-item-current>a,
@@ -22428,7 +22428,7 @@ body .quickfinder-item .quickfinder-item-connector,
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger) #primary-menu.no-responsive>li:hover>a {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger):not(.header-layout-overlay) #primary-menu.no-responsive>li.menu-item-current>a,
@@ -22479,7 +22479,7 @@ body .menu-overlay {
 .page-additional-menu.header-layout-overlay .primary-navigation .nav-menu.no-responsive li>a:hover,
 .header-layout-overlay #primary-navigation #primary-menu.no-responsive li .menu-item-parent-toggle:hover:before,
 .page-additional-menu.header-layout-overlay #primary-navigation #primary-menu.no-responsive li .menu-item-parent-toggle:hover:before {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 .header-layout-overlay #primary-navigation #primary-menu.no-responsive>li.menu-item-current>a,
@@ -22500,7 +22500,7 @@ body .menu-overlay {
 .page-additional-menu.header-layout-overlay #primary-navigation #primary-menu.no-responsive li.menu-item-current>.menu-item-parent-toggle:before,
 .page-additional-menu.header-layout-overlay #primary-navigation #primary-menu.no-responsive li.menu-item-active>.menu-item-parent-toggle:before,
 .page-additional-menu.header-layout-overlay #primary-navigation #primary-menu.no-responsive li.menu-overlay-item-open>.menu-item-parent-toggle:before {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 body,
@@ -22991,7 +22991,7 @@ input[type=submit]:hover,
 #wp-calendar #next a:hover:after,
 #primary-menu.no-responsive>li.menu-item-cart .widget_shopping_cart_content .buttons a:hover,
 .hamburger-minicart .widget_shopping_cart_content .buttons a:hover {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 .gem-button,
@@ -23008,7 +23008,7 @@ input[type=submit],
 .ui-slider-range.ui-widget-header.ui-corner-all,
 .gem-blog-slider .gem-blog-slider-prev:hover,
 .gem-blog-slider .gem-blog-slider-next:hover {
-	background-color: #ffcd20
+	background-color: rgb(51, 108, 180)
 }
 
 .comment-form .comment-author-input:after,
@@ -23029,12 +23029,12 @@ body .wpcf7-form .combobox-button:before,
 .blog-style-styled_list2 .post-img a .dummy,
 .blog-style-timeline article:before,
 .blog-style-timeline .post-img a .dummy {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 .checkbox-sign,
 .radio-sign {
-	border: 1px solid #ffcd20
+	border: 1px solid rgb(51, 108, 180)
 }
 
 .gem-button:hover,
@@ -23068,7 +23068,7 @@ body .woocommerce .checkout-signin .checkout-create-account button:hover {
 .gem-button.gem-button-style-outline,
 body .woocommerce .woocommerce-cart-form .actions .submit-buttons .update-cart button:hover,
 body .checkout-navigation-buttons .checkout-place-order button:hover {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 .gem-button.gem-button-style-outline:hover,
@@ -23083,7 +23083,7 @@ body .checkout-navigation-buttons .checkout-place-order button {
 body .woocommerce .woocommerce-cart-form .actions .submit-buttons .update-cart button:hover,
 body .checkout-navigation-buttons .checkout-place-order button:hover,
 body .checkout-navigation-buttons .checkout-place-order button {
-	border-color: #ffcd20
+	border-color: rgb(51, 108, 180)
 }
 
 .gem-button.gem-button-style-outline:hover,
@@ -23095,7 +23095,7 @@ body #colophon .tagcloud a:hover,
 .portfolio-item-page-bottom .project-button .gem-button,
 body .woocommerce .woocommerce-cart-form .actions .submit-buttons .update-cart button,
 body .checkout-navigation-buttons .checkout-place-order button {
-	background-color: #ffcd20
+	background-color: rgb(51, 108, 180)
 }
 
 .widget-title,
@@ -23422,7 +23422,7 @@ body .blog-style-compact article a.default:before,
 
 .gem-testimonials .gem-prev:hover:after,
 .gem-testimonials .gem-next:hover:after {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 body .gem-testimonials .gem-prev:after,
@@ -23573,7 +23573,7 @@ body .vc_grid-pagination .vc_grid-pagination-list li.vc_grid-page.vc_grid-active
 
 body .gem-testimonials.style1 .gem-testimonial-wrapper:after,
 body .gem-testimonials.style2 .gem-testimonial-wrapper p:after {
-	color: #ffcd20
+	color: rgb(51, 108, 180)
 }
 
 .socials-sharing a.socials-item {
@@ -23668,14 +23668,14 @@ body .bc-devider:before {
 }
 
 body .breadcrumbs .current {
-	color: #ffcd20;
-	border-bottom: 3px solid #ffcd20
+	color: rgb(51, 108, 180);
+	border-bottom: 3px solid rgb(51, 108, 180)
 }
 
 #page-preloader .page-preloader-spin,
 .block-preloader .page-preloader-spin,
 .preloader-spin {
-	border-top-color: #ffcd20
+	border-top-color: rgb(51, 108, 180)
 }
 
 #page-preloader .page-preloader-spin:before,
@@ -24201,7 +24201,7 @@ form.mc4wp-form input[type=submit] {
 
 .yikes-easy-mc-form .yikes-easy-mc-submit-button.gem-button:hover,
 form.mc4wp-form input[type=submit]:hover {
-	background-color: #ffcd20
+	background-color: rgb(51, 108, 180)
 }
 
 .wpb_widgetised_column .mc4wp-form-fields,
@@ -24223,7 +24223,7 @@ form.mc4wp-form input[type=submit]:hover {
 .widget .yikes-easy-mc-form .yikes-easy-mc-submit-button.gem-button:hover,
 .widget form.mc4wp-form input[type=submit]:hover,
 .widget form.mc4wp-form #mc4wp_submit:hover {
-	background-color: #ffcd20
+	background-color: rgb(51, 108, 180)
 }
 
 .preloader:after,
