@@ -10289,7 +10289,7 @@ body .fancybox-title-over-wrap {
 }
 
 .scroll-top-button.visible {
-    opacity: 1;
+    opacity: .6;
     visibility: visible
 }
 
