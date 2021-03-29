@@ -10295,18 +10295,19 @@ body .fancybox-title-over-wrap {
 
 .scroll-top-button:before {
     font-family: thegem-icons;
-    content: '˄';
+    content: '▲';
     color: red;
-    font-size: 24px;
-    font-weight: 400;
+    font-size: 40px;
+    font-weight: 700;
     display: inline-block;
-    vertical-align: top;
+    vertical-align: center;
     width: 50px;
     height: 50px;
     text-align: center;
-    line-height: 50px;
-    background-color: #06060f;
-    color: #99a9b5
+    border-radius: 40px 40px;
+    line-height: 40px;
+    background: blue;
+    color: white;
 }
 
 @media(max-width:768px) {
